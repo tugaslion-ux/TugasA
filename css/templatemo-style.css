@@ -147,6 +147,7 @@ http://www.templatemo.com/tm-509-hydro
     padding-top: 80px;
     padding-bottom: 80px;
     text-align: center;
+    background: #000000;
   }
 
 
@@ -488,7 +489,7 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
   #blog {
-    background: #f0f0f0;
+    background: #000000;
   }
 
   #blog-header,
