@@ -205,6 +205,7 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
   .custom-navbar {
+    background: 000000;
     border: none;
     margin-bottom: 0;
     padding: 25px 0;
@@ -294,7 +295,7 @@ http://www.templatemo.com/tm-509-hydro
     }
 
     .custom-navbar.top-nav-collapse {
-      background: #ffffff;
+      background: #000000;
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -302,15 +303,15 @@ http://www.templatemo.com/tm-509-hydro
     }
 
     .top-nav-collapse .navbar-brand {
-      color: #ffffff;
+      color: #000000;
     }
 
     .top-nav-collapse .nav li a {
-      color: #ffffff;
+      color: #000000;
     }
 
     .top-nav-collapse .nav .section-btn a {
-      color: #ffffff;
+      color: #000000;
     }
   }
 
