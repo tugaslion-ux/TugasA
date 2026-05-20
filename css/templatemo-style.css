@@ -645,13 +645,14 @@ http://www.templatemo.com/tm-509-hydro
     color: #ffffff;
   }
 
-  .google-map {
+.google-map {
     border-radius: 100%;
     width: 300px;
     height: 300px;
     overflow: hidden;
-    margin: 0 auto;
-  }
+    margin: 0 auto; 
+    float: none;
+}
 
   .google-map iframe {
     border: 0;
